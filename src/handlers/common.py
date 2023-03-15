@@ -40,7 +40,7 @@ async def answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
         case Level.test_verbs_by_letter.value:
             text = answers.verbs_by_letter[user.user_id]
             await update.message.reply_text(text,
-                                            reply_markup=keyboards.verb_markup)
+                                            reply_markup=keyboards.verbs_test_by_letter_markup)
 
         case Level.test_all_adverbs.value:
             pass

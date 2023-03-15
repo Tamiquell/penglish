@@ -28,8 +28,12 @@ async def verbs_by_letter(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(text,
                                         reply_markup=keyboards.verb_letter_markup)
     else:
-        await update.message.reply_text("No words on this letter yet🙃. Stay tuned for further updates",
-                                        reply_markup=keyboards.verb_markup)
+        if len(letter) == 1:
+            await update.message.reply_text("No words on this letter yet🙃. Stay tuned for further updates",
+                                            reply_markup=keyboards.verb_markup)
+        else:
+            await update.message.reply_text("Invalid input. Use interface properly",
+                                            reply_markup=keyboards.verb_markup)
 
 
 async def test_verbs_by_letter(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -41,9 +45,9 @@ async def test_verbs_by_letter(update: Update, context: ContextTypes.DEFAULT_TYP
         questions = parse_single_array(rus)
         answers.verbs_by_letter[user_id] = parse_single_array(eng)
         await update.message.reply_text(questions,
-                                        reply_markup=keyboards.verb_letter_markup)
+                                        reply_markup=keyboards.verbs_test_by_letter_markup)
     if language == 'en':
         questions = parse_single_array(eng)
         answers.verbs_by_letter[user_id] = parse_single_array(rus)
         await update.message.reply_text(questions,
-                                        reply_markup=keyboards.verb_letter_markup)
+                                        reply_markup=keyboards.verbs_test_by_letter_markup)
