@@ -1,0 +1,2 @@
+class WrongTestHandler(Exception):
+    pass

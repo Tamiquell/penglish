@@ -1,7 +1,15 @@
 import random
+import logging
 
-from src.storage.db_interface import InterfaceDB, Words
+from src.storage.db_interface import InterfaceDB, Words, UserDBInterface, User
 import os
+from src.storage.db_interface import User
+
+
+logging.basicConfig(
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
 
 
 class VerbsDB(InterfaceDB):
@@ -30,3 +38,51 @@ class VerbsDB(InterfaceDB):
 
 
 verbsDB = VerbsDB()
+
+
+class UsersDB(UserDBInterface):
+
+    def __init__(self) -> None:
+        self.users: dict[int, User] = {}
+
+    def select_all(self):
+        return self.users
+
+    def select_user(self, user_id: int):
+        return self.users[user_id]
+
+    def add_user(self, user: User):
+        if not self.exists(user.user_id):
+            self.users[user.user_id] = user
+            logging.info(
+                f"Added user: {user.user_id}, user_name: {user.username}, name: {user.first_name} {user.last_name}")
+
+    def add_letter(self, user_id: int, letter: str):
+        self.users[user_id].letter = letter
+
+    def exists(self, user_id: int) -> bool:
+        if user_id in self.users:
+            return True
+        return False
+
+    def set_level(self,  user_id: int, level: str):
+        self.users[user_id].level = level
+
+
+usersDB = UsersDB()
+
+
+class Answers:
+    def __init__(self) -> None:
+        self.nouns: dict[int, str] = {}
+        self.verbs: dict[int, str] = {}
+        self.adverbs: dict[int, str] = {}
+        self.adjectives: dict[int, str] = {}
+
+        self.nouns_by_letter: dict[int, str] = {}
+        self.verbs_by_letter: dict[int, str] = {}
+        self.adverbs_by_letter: dict[int, str] = {}
+        self.adjectives_by_letter: dict[int, str] = {}
+
+
+answers = Answers()
