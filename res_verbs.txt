@@ -1,0 +1,509 @@
+to accept - принять (предложение, предмет)
+to aim (at) - целиться
+to answer / to reply - ответить
+to apply / to appeal - обратиться (к кому-либо, куда-либо)
+to argue - спорить
+to ask - спросить
+to ask (for) - попросить
+to assume - предполагать
+to attend - посетить (собрание, мероприятие)
+to be afraid (of) - бояться
+to be agree with - быть согласным
+to be late - опаздывать
+to be wrong - ошибаться (быть ошибочного мнения)
+to beat (beat / beaten) - бить
+to bend (bent / bent) - гнуть
+to break (broke / broken) - ломать
+to bring (brought / brought) - принести
+to call - позвонить
+to carry - нести 
+to catch (caught / caught) - поймать / ловить
+to catch up - нагнать / догнать
+to change one's mind - передумать
+to clarify / to make clear - прояснить
+to collect / to pick - собирать
+to come (came / come) - приходить
+to come up - подойти (приблизиться)
+to compare - сравнивать
+to complain - жаловаться
+to consider - рассматривать (вопрос, ситуацию)
+to convince (of) - убедить
+to cover - покрывать / прикрывать
+to close / to shut - закрыть
+to creep / to crawl - ползать
+to cross out - зачеркнуть
+to dance - танцевать
+to decide / to make a decision - решить (что делать) / принять решение
+to declare / to claim / to state - заявлять
+to demand - требовать
+to deny - отрицать
+to describe - описывать
+to discuss / to talk over - обсуждать
+to destroy - уничтожить
+to distribute / to spread - распространять
+to do a favour - сделать одолжение
+to drop - бросить / уронить / бросать
+to draw his attention - привлечь его внимание
+to emerge from / to come out of - появиться (откуда-то)
+to enter / to come in - входить в помещение
+to explain - объяснять
+to express - выражать
+to fail - потерпеть неудачу
+to fall (fell / fallen) - упасть
+to fill - наполнить
+to find out - выяснить
+to flow - течь / литься
+to fly (flew / flown) - летать
+to fly away - улетать
+to forget (forgot / forgotten) - забыть
+to give (gave / given) - давать
+to get acquainted with - познакомиться
+to go (went / gone) - идти
+to go away / to leave / to get away - уходить
+to go home - идти домой
+to go out / to get out - выходить
+to go / to ride / to drive - ехать
+to greet / to welcome - приветствовать
+to guess - отгадывать / угадывать
+to have a look at / to glance at - взглянуть
+to have fun - веселиться
+to hear (heard / heard) - слышать
+to hide (hid / hidden) - прятать / прятаться
+to hit (hit / hit) / to strike - ударить
+to hold (held / held) - держать
+to ignore / to disregard - игнорировать
+to imagine - воображать / представлять себе
+to incline / to lean - наклоняться
+to introduce - представить кого-то кому-то
+to invite - пригласить
+to join / to get in - присоединиться
+to jump / to leap / to hop - прыгать
+to keep a promise - сдержать обещание
+to keep a secret - хранить тайну
+to laugh - смеяться
+to leave (left/left) - уйти / уехать / покинуть
+to let smb know - дать знать кому-либо
+to listen (to) - слушать что-либо, кого-либо
+to look forward - ожидать с нетерпением
+to make out - разобрать (слова)
+to make sense - иметь смысл
+to make sure - убедиться
+to matter - иметь значение
+to mean / to imply - подразумевать
+to meet (met / met)
+to mention - упоминать
+to move - двигать / двигаться
+to note / to notice - отметить (в разговоре)
+to notice smb - заметить кого-либо
+to open - открыть
+to object (to) - возражать
+to offer - предлагать
+to owe - задолжать / быть задолжным
+to pack - упаковать
+to pass - проходить / передавать
+to pay attention to - обратить внимание
+to play - играть
+to press - нажимать
+to pretend - претендовать / притворяться
+to prevent (from) - помешать / предотвращать
+to promise / to make a promise / to give a promise - обещать
+to pull - тянуть
+to push - толкать
+to put (put / put) / to lay - класть / положить
+to put down - опускать (вниз)
+to raise - поднимать
+to realize - понять / осознать
+to recognize - узнать (знакомого)
+to remind smb of smth - напомнить кому-либо о ком-либо
+to repeat - повторять
+to return / to be back / to come back - возвращаться / вернуться
+to rise (rose / risen) / to go up - подниматься
+to risk / to take a chance - рискнуть
+to run (ran / run) - бежать
+to rush - мчаться
+to rush up - броситься
+to satisfy - удовлетворять
+to say (said / said) - сказать (произнести)
+to screw up - испортить / запороть
+to seem - казаться
+to send (sent / sent) - послать
+to shake (shook / shaken) - трясти
+to shake hands - поздороваться за руку
+to share - делиться (чем-то)
+to shout at - кричать на
+to shout / to cry - кричать
+to sing (sang / sung) - петь
+to sit down - садиться / сесть
+to sit next to smb - сидеть рядом с кем-то
+to slide (slid / slid) / to slip - скользить
+to smile - улыбаться
+to solve / to resolve - решить (проблему)
+to speak (spoke / spoken) - говорить
+to spread (spread / spread) - распределить
+to stand (stood / stood) - стоять
+to stick (stuck / stuck) - втыкать
+to stop - останаваливать
+to stretch - растягивать
+to switch on / to turn on - включить
+to switch off / to turn off - выключить
+to take (took / taken) - взять / брать
+to take out - вынуть / достать из
+to tear (tore / torn) / to rip - рвать
+to throw (threw / thrown) - кидать / бросать
+to touch - трогать
+to turn into - превратить в
+to turn over - перевернуть
+to walk - гулять / ходить
+
+
+to spell - произнести по буквам
+to spend (spent / spent) - проводить (время)	
+to suit / to fit - подходить (соответствовать)	
+to sum up - подвести итог	
+to suppose / to assume - предполагать	
+to surprise - удивлять	
+to take into account / to consider - учесть / принять во внимание	
+to take part / to participate - принимать участие
+to talk - поговорить	
+to tell (told / told) - рассказывать	
+to tell a lie - солгать
+to tell smb to do smth - велеть кому-то сделать что-то
+to thank  - поблагодарить
+to threaten /  a threat - угрожать / угроза
+to treat - обращаться c кем-то
+to turn out - оказаться (выясниться)
+to understand (understood / understood) - понимать
+to unite - объединиться
+to visit / to pay a visit to - посетить (друзей, знакомых)
+to warn - предупреждать
+to wave - махать (рукой)
+to write down - записать
+to celebrate - праздновать
+to complicate - усложнять
+to confess - признаться
+to disturb - беспокоить / побеспокоить
+to drop a hint / to hint (at) - намекнуть
+to emphasize / to accent - сделать ударение
+to find a way out / to come up with a solution - найти выход из положения
+to insist on - настаивать на
+to persuade - уговорить / убедить
+to praise - хвалить
+to reject - отклонить (просьбу, предложение)
+to whisper - шептать
+to yawn - зевать
+
+to agree with / to accept - согласиться
+to allow - позволять / разрешать	
+to appreciate - ценить
+to assume / to belive / to consider - считать (полагать)
+to be against something - быть против
+to be quiet - не шуметь / вести себя смирно
+to care / to look after - заботиться
+to count on somebody - рассчитывать на кого-то
+to deceive - обманывать	
+to depend (on) - зависеть (от)
+to evaluate / to rate - оценивать
+to fight (fought / fought) - драться / воевать
+to force smb to / to make smb to - заставлять / принуждать
+to forgive (forgave / forgiven) - прощать
+to free / to let go - освободить / отпустить
+to get into trouble - попасть в беду
+to get used to - привыкнуть к
+to get worse - портиться
+to give in - уступать
+to give up - сдаться
+to help - помогать
+to hope - надеяться
+to leave somebody alone - оставить кого-то в покое
+to let (let / let) / to allow / to permit - разрешать
+to like - любить (когда нравится что-то)
+to look after - следить за (заботиться) / присматривать
+to lose (lost / lost) - проиграть
+to make a mistake - ошибиться
+to prefer - предпочитать
+to put up (with) - помириться
+to refuse - отказать, отказаться
+to resist - сопротивляться
+to respect - уважать
+to save - спасать
+to support - поддерживать (кого-то)
+to suspect - подозревать
+to take care of - позаботиться
+to wish - желать
+to forbid (forbade / forbidden) - запрещать
+to frighten / to scare - пугать
+to outrage / to offend - оскорбить
+to rely on - полагаться на
+to embrace / to hug - обнять
+
+to accompany - сопровождать
+to arrive - прибывать
+to ask the way - спросить как пройти
+to be lost - заблудиться
+to book, to make a reservation - забронировать
+to charge - заряжать (телефон)
+to check out - выписаться из отеля
+to cross a street - перейти улицу
+to depart - отправиться (в поездку)
+to drive (drove / driven) - управлять машиной
+to enjoy - наслаждаться
+to follow - следовать за
+to get (got / got) - добраться
+to have a rest - отдыхать
+to knock - стучаться	
+to move / to relocate - переезжать (в другое место)
+to rent - взять на прокат
+to swim (swam / swum) - плавать
+to take the shortest way - пойти кратчайшей дорогой
+to travel - путешествовать / ездить
+to turn - повернуть
+to turn the corner - повернуть за угол
+to walk - идти пешком
+
+to achieve - добиться
+to add - складывать (прибавлять)
+to calculate - рассчитывать / вычислять
+to cost (cost / cost) - стоить
+to count - считать (сосчитать)
+to create - создавать
+to deal with / deal (dealt / dealt) - иметь дело с
+to divide by three - делить на три
+to ensure - обеспечить (исполнение)
+to fire - уволить
+to get a job - получить работу
+to hire - нанять
+to improve - улучшать
+to inform - сообщать / информировать
+to look through - просматривать
+to make a deal - заключить сделку
+to produce - производить
+to provide / to supply - предоставить / снабдить
+to reach - достигнуть
+to reduce - уменьшить
+to reduce / to cut down - сокращать
+to serve - служить
+to spend - тратить (деньги)
+to supply / to provide - снабжать
+to waste - тратить зря
+to borrow - занять / взять в долг
+to cancel - отменить
+to haggle / to bargain - торговаться
+to negotiate - вести переговоры
+to remove / to eliminate - устранить
+
+to be able / can - мочь (быть в состоянии) / уметь
+to be over / to come to an end - закончиться
+to break down / to get out of order - ломаться
+to differ - отличаться
+to exist - существовать
+to get (got / got) / to become (became / become) - стать
+to get stuck - застрять
+to get tired - устать
+to get wet - промокнуть
+to grow (grew / grown) - расти
+to lie (lay / lain) - лежать
+to reflect - отражать (свет, изображение)	
+to stay / to remain - остаться
+to surround / to encircle - окружать
+to wait for - ждать	
+to shine (shone / shone) - светиться / сиять
+
+to cry - плакать
+to be surprised (at) - удивиться
+to be upset - быть расстроенным, огорченным
+to blame / to accuse - винить / осуждать
+to doubt - сомневаться
+to dream (dreamt / dreamt) - мечтать
+to feel (felt / felt) - чувствовать
+to feel comfortable / to be comfortable - чувствовать себя комфортно
+to get upset - расстроиться
+to hate - ненавидеть
+to hesitate - колебаться (в нерешительности)
+to inspire - вдохновлять
+to intend / to be going to / to be about to - намереваться
+to miss somebody - скучать (по кому-либо)
+to need / to be in need (of) - нуждаться
+to perceive - воспринимать
+to suffer - страдать
+to suffer - терпеть (страдания)
+to want / to wish - хотеть
+to worry / to be anxious - беспокоиться / волноваться
+to be short of something - испытывать недостаток в чем-либо
+to confuse - смущать
+to offend / to injure - обидеть
+to sympathize with - сочувствовать кому-то
+
+
+
+to love / to like - любить	
+to be born - родиться	
+to behave / to act - вести себя	
+to blow (blew / blown) - дуть	
+to bring up - воспитывать	
+to die - умирать	
+to fall asleep - заснуть	
+to fall in love - влюбиться	
+to kiss - целовать	
+to live - жить	
+to marry - жениться / выйти замуж	
+to sleep (slept / slept) - спать	
+to wake (woke / woken) - будить	
+to wake up / to wake (woke / woken) - проснуться	
+to blink - моргать	
+ - 
+e - мог	could / was abl
+to be allowed - мочь (иметь разрешение)	may / 
+to act - действовать	
+to be going to / to be about to - собираться делать что-то	
+to be worth of - стоить (заслуживать)	
+to begin (began / begun) / to start - начать	
+to belong to - принадлежать	
+to bring (brought / brought) - привести (кого-то)	
+to buy (bought / bought) - покупать	
+to change - изменить (что-то)	
+to check / to verify / to review - проверять	
+to choose (chose / chosen) - выбирать	
+to consist of - состоять (из)	
+to correct - исправить	
+to damage - повредить	
+to deliver - доставлять	
+to destroy / to ruin - разрушать	
+to distinguish - различать	
+to draw (drew / drawn) - рисовать	
+to expect - ожидать	
+to extend - продлить	
+to fill in - заполнить (пропуски)	
+to find (found / found) - найти	
+to finish / to complete - закончить / завершить	
+to follow - следить (выслеживать)	
+to forward - переслать (письмо)	
+to get ready - подготовиться	
+to get up - встать утром	
+to get / to receive - получить	
+to go on / to continue - продолжать / продолжаться	
+to happen / to take place - случаться / происходить	
+to have (had / had) / to have got - иметь	
+to hurry / to be in a hurry - спешить	
+to increase - увеличить	
+to interrupt / to break - прервать	
+to keep (kept / kept) - содержать	
+to keep (kept / kept) - хранить	
+to know (knew / known) - знать	
+to lay aside - отложить в сторону	
+to learn / to memorize - выучить	
+to learn / to study - учить (изучать)	
+to let in - впускать	
+to limit / to confine - ограничивать	
+to look at - смотреть на	
+to look for - искать	
+to lose (lost / lost) - потерять	
+to lower - снижать (громкость / цену)	
+to make (made / made) / to do (did / done) - делать	
+to make a decision - принять решение	
+to make an attempt - сделать попытку	
+to manage - управлять / руководить	
+to manage smth / to cope with - суметь / справиться	
+to mean (meant / meant) - значить	
+to miss - пропускать (занятия)	
+to paint - красить	
+to pay - платить	
+to perform / to fulfill - выполнять	
+to perform / to make - совершить	
+to point at - указывать (на)	
+to prepare - подготовить	
+to print - печатать	
+to read (read / read) - читать	
+to remember - помнить	
+to remember / to recall - вспоминать / вспомнить	
+to see (saw / seen) - видеть	
+to sell (sold / sold) - продавать	
+to show - показать	
+to sign - подписывать	
+to swap / to exchange - поменяться / обменяться	
+to teach (taught / taught) / to train - учить (кого-то)	
+to think (thought / thought) - думать	
+to translate - переводить (на другой язык)	
+to try / to attempt - пробовать / пытаться	
+to use - использовать	
+to win (won / won) - выиграть	
+to work - работать	
+to write (wrote / written) - писать	
+to postpone / to delay - отложить (по времени)	
+ - 
+to build (built / built) - строить	
+to burn (burnt / burnt) - сжечь	
+to clean - чистить	
+to dry - сушить	
+to fix - фиксировать	
+to fix / to attach - прикрепить	
+to fix / to repair - чинить	
+to guard / to protect - охранять	
+to hang (hung / hung) - висеть	
+to iron - гладить (утюгом)	
+to litter - мусорить	
+to live next door - жить рядом	
+to lock the door - запереть дверь	
+to look out - выглянуть	
+to maintain / to keep up - поддерживать (состояние / порядок)	
+to mix - мешать / смешивать	
+to pick up - поднять (подобрать)	
+to place / to put - поместить	
+to plant - сажать / посадить (растение)	
+to save / to keep - сохранить	
+to scratch / to scrape - царапать	
+to steal (stole / stolen) - воровать	
+to tie - связывать (веревкой)	
+to tie / to bind - привязать	
+to use - употреблять	
+to wash - мыть	
+to wash up - вымыть / помыть	
+to watch TV - смотреть телевизор	
+to water - поливать	
+to fold - складывать / сгибать	
+ - 
+to be hungry - хотеть есть	
+to be thirsty - хотеть пить	
+to cook - готовить еду	
+to cool - охладить	
+to cut off - отрезать	
+to drink (drank / drunk) - пить	
+to eat (ate / eaten) - кушать	
+to feed (fed / fed) - кормить	
+to taste - пробовать (на вкус)	
+to chew - жевать	
+to spill - пролить	
+to swallow - глотать	
+to bite (bit / bitten) - кусать	
+to be ill - болеть	
+to feel sick - тошнить	
+to get ill - заболеть	
+to hurt (hurt / hurt) - причинить боль	
+to smoke - курить	
+to treat - лечить	
+to wound - ранить	
+to cough - кашлять	
+to sneeze - чихать	
+to sweat / to perspire - потеть	
+to breathe - дышать	
+ - 
+to examine - осматривать	
+to get dirty - испачкаться	
+to hang (hung / hung) - вешать	
+to look like smb - походить на кого-л.	
+to look nice - выглядеть красиво	
+to loose / to loosen - ослабить (тугое)	
+to make dirty - испачкать	
+to make up - накраситься	
+to put off - снимать / раздеваться	
+to put on - надеть	
+to try on - примерить (одежду)	
+to wear (wore / worn) - носить (одежду) / быть одетым	
+to shorten - укоротить	
+ - 
+to lead (led / led) - вести (за собой)	
+to influence - влиять	
+to prevent - предотвращать	
+to protect - защищать	
+to punish - наказывать	
+to set free - освободить	
+to shoot (shot / shot) - стрелять	

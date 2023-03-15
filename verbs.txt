@@ -1,0 +1,172 @@
+любить	to love, to like
+родиться	to be born
+вести себя	to behave, to act
+дуть	to blow (blew, blown)
+воспитывать	to bring up
+умирать	to die
+заснуть	to fall asleep
+влюбиться	to fall in love
+целовать	to kiss
+жить	to live
+жениться, выйти замуж	to marry
+спать	to sleep (slept, slept)
+будить	to wake (woke, woken)
+проснуться	to wake up, to wake (woke, woken)
+моргать	to blink
+
+мог	could, was able
+мочь (иметь разрешение)	may, to be allowed
+действовать	to act
+собираться делать что-то	to be going to, to be about to
+стоить (заслуживать)	to be worth of
+начать	to begin (began, begun), to start
+принадлежать	to belong to
+привести (кого-то)	to bring (brought, brought)
+покупать	to buy (bought, bought)
+изменить (что-то)	to change
+проверять	to check, to verify, to review
+выбирать	to choose (chose, chosen)
+состоять (из)	to consist of
+исправить	to correct
+повредить	to damage
+доставлять	to deliver
+разрушать	to destroy, to ruin
+различать	to distinguish
+рисовать	to draw (drew, drawn)
+ожидать	to expect
+продлить	to extend
+заполнить (пропуски)	to fill in
+найти	to find (found, found)
+закончить, завершить	to finish, to complete
+следить (выслеживать)	to follow 
+переслать (письмо)	to forward
+подготовиться	to get ready
+встать утром	to get up
+получить	to get, to receive
+продолжать, продолжаться	to go on, to continue
+случаться, происходить	to happen, to take place
+иметь	to have (had, had), to have got
+спешить	to hurry, to be in a hurry
+увеличить	to increase
+прервать	to interrupt, to break
+содержать	to keep (kept, kept)
+хранить	to keep (kept, kept)
+знать	to know (knew, known)
+отложить в сторону	to lay aside
+выучить	to learn, to memorize
+учить (изучать)	to learn, to study
+впускать	to let in
+ограничивать	to limit, to confine
+смотреть на	to look at
+искать	to look for
+потерять	to lose (lost, lost)
+снижать (громкость, цену)	to lower
+делать	to make (made, made), to do (did, done)
+принять решение	to make a decision
+сделать попытку	to make an attempt
+управлять, руководить	to manage
+суметь, справиться	to manage smth, to cope with
+значить	to mean (meant, meant)
+пропускать (занятия)	to miss
+красить	to paint
+платить	to pay
+выполнять	to perform, to fulfill
+совершить	to perform, to make
+указывать (на)	to point at
+подготовить	to prepare
+печатать	to print
+читать	to read (read, read)
+помнить	to remember
+вспоминать, вспомнить	to remember, to recall
+видеть	to see (saw, seen)
+продавать	to sell (sold, sold)
+показать	to show
+подписывать	to sign
+поменяться, обменяться	to swap, to exchange
+учить (кого-то)	to teach (taught, taught), to train
+думать	to think (thought, thought)
+переводить (на другой язык)	to translate
+пробовать, пытаться	to try, to attempt
+использовать	to use
+выиграть	to win (won, won)
+работать	to work
+писать	to write (wrote, written)
+отложить (по времени)	to postpone, to delay
+
+строить	to build (built, built)
+сжечь	to burn (burnt, burnt) 
+чистить	to clean
+сушить	to dry
+фиксировать	to fix
+прикрепить	to fix, to attach
+чинить	to fix, to repair
+охранять	to guard, to protect
+висеть	to hang (hung, hung)
+гладить (утюгом)	to iron
+мусорить	to litter
+жить рядом	to live next door
+запереть дверь	to lock the door
+выглянуть	to look out
+поддерживать (состояние, порядок)	to maintain, to keep up
+мешать, смешивать	to mix
+поднять (подобрать)	to pick up
+поместить	to place, to put
+сажать, посадить (растение)	to plant
+сохранить	to save, to keep
+царапать	to scratch, to scrape
+воровать	to steal (stole, stolen)
+связывать (веревкой)	to tie
+привязать	to tie, to bind
+употреблять	to use
+мыть	to wash
+вымыть, помыть	to wash up
+смотреть телевизор	to watch TV
+поливать	to water
+складывать, сгибать	to fold
+
+хотеть есть	to be hungry
+хотеть пить	to be thirsty
+готовить еду	to cook
+охладить	to cool
+отрезать	to cut off
+пить	to drink (drank, drunk)
+кушать	to eat (ate, eaten)
+кормить	to feed (fed, fed)
+пробовать (на вкус)	to taste
+жевать	to chew
+пролить	to spill
+глотать	to swallow
+кусать	to bite (bit, bitten)
+болеть	to be ill
+тошнить	to feel sick
+заболеть	to get ill
+причинить боль	to hurt (hurt, hurt)
+курить	to smoke
+лечить	to treat
+ранить	to wound
+кашлять	to cough
+чихать	to sneeze
+потеть	to sweat, to perspire
+дышать	to breathe
+
+осматривать	to examine
+испачкаться	to get dirty
+вешать	to hang (hung, hung)
+походить на кого-л.	to look like smb
+выглядеть красиво	to look nice
+ослабить (тугое)	to loose, to loosen
+испачкать	to make dirty
+накраситься	to make up
+снимать, раздеваться	to put off
+надеть	to put on
+примерить (одежду)	to try on
+носить (одежду), быть одетым	to wear (wore, worn)
+укоротить	to shorten
+
+вести (за собой)	to lead (led, led)
+влиять	to influence
+предотвращать	to prevent
+защищать	to protect
+наказывать	to punish
+освободить	to set free
+стрелять	to shoot (shot, shot)
