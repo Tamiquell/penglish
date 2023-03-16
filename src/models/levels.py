@@ -3,10 +3,16 @@ from enum import Enum
 
 class Level(Enum):
     start = "start"
+
     nouns = "nouns"
     verbs = "verbs"
     adverbs = "adverbs"
     adjectives = "adjectives"
+
+    nouns_by_letter = "nouns_by_letter"
+    verbs_by_letter = "verbs_by_letter"
+    adverbs_by_letter = "adverbs_by_letter"
+    adjectives_by_letter = "adjectives_by_letter"
 
     test_all_nouns = "test_all_nouns"
     test_nouns_by_letter = "test_nouns_by_letter"

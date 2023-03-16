@@ -1,8 +1,8 @@
 import random
 import logging
+from typing import Literal
 
 from src.storage.db_interface import InterfaceDB, Words, UserDBInterface, User
-import os
 from src.storage.db_interface import User
 
 
@@ -10,6 +10,8 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     level=logging.INFO
 )
+
+BLOCK = Literal['verbs', 'nouns', 'adverbs', 'adjectives']
 
 
 class VerbsDB(InterfaceDB):
@@ -67,6 +69,17 @@ class UsersDB(UserDBInterface):
 
     def set_level(self,  user_id: int, level: str):
         self.users[user_id].level = level
+
+    def set_language(self, user_id: int, lang: str = '', block: BLOCK = ''):
+        match block:
+            case 'verbs':
+                self.users[user_id].verbs_lang = lang
+            case 'nouns':
+                self.users[user_id].nouns_lang = lang
+            case 'adverbs':
+                self.users[user_id].adverbs_lang = lang
+            case 'adjectives':
+                self.users[user_id].adjectives_lang = lang
 
 
 usersDB = UsersDB()

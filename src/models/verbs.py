@@ -2,7 +2,8 @@ import random
 from typing import TypeAlias
 
 from src.models.interface import Branch
-from src.storage.in_memory.db import verbsDB
+from src.storage.in_memory.db import verbsDB, usersDB
+from src.storage.db_interface import User
 
 English: TypeAlias = list[str]
 Russian: TypeAlias = list[str]
@@ -29,7 +30,8 @@ class Verbs(Branch):
 
     def test_letter(self, letter: str) -> tuple[English, Russian]:
         eng_words, rus_words = self.get_data_on_letter(letter)
-        indices = random.sample(range(len(eng_words)), TEST_SIZE)
+        indices = random.sample(range(len(eng_words)),
+                                min(TEST_SIZE, len(eng_words)))
         eng_res: English = [eng_words[i] for i in indices]
         rus_res: Russian = [rus_words[i] for i in indices]
         return eng_res, rus_res

@@ -58,3 +58,7 @@ class User:
     last_name: str = ''
     letter: str = ''
     level: str = ''
+    verbs_lang = ''
+    nouns_lang = ''
+    adverbs_lang = ''
+    adjectives_lang = ''

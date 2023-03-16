@@ -50,9 +50,8 @@ to borrow - занять / взять в долг
 to break (broke / broken) - ломать
 to break down / to get out of order - ломаться
 to breathe - дышать
-to bring (brought / brought) - принести
+to bring (brought / brought) - принести / привести (кого-то)
 to bring up - воспитывать
-to bring (brought / brought) - привести (кого-то)
 to build (built / built) - строить
 to burn (burnt / burnt) - сжечь
 to buy (bought / bought) - покупать
@@ -167,8 +166,7 @@ to flow - течь / литься
 to fly (flew / flown) - летать
 to fly away - улетать
 to fold - складывать / сгибать
-to follow - следовать за
-to follow - следить (выслеживать)
+to follow - следовать за / следить (выслеживать)
 to forbid (forbade / forbidden) - запрещать
 to force smb to / to make smb to - заставлять / принуждать
 to forget (forgot / forgotten) - забыть
@@ -176,6 +174,7 @@ to forgive (forgave / forgiven) - прощать
 to forward - переслать (письмо)
 to free / to let go - освободить / отпустить
 to frighten / to scare - пугать
+to get - получить
 to get acquainted with - познакомиться
 to get into trouble - попасть в беду
 to get used to - привыкнуть к
@@ -206,8 +205,7 @@ to grow (grew / grown) - расти
 to guard / to protect - охранять
 to guess - отгадывать / угадывать
 to haggle / to bargain - торговаться
-to hang (hung / hung) - висеть
-to hang (hung / hung) - вешать
+to hang (hung / hung) - висеть / вешать
 to happen / to take place - случаться / происходить
 to hate - ненавидеть
 to have a look at / to glance at - взглянуть
@@ -240,10 +238,9 @@ to invite - пригласить
 to iron - гладить (утюгом)
 to join / to get in - присоединиться
 to jump / to leap / to hop - прыгать
+to keep (kept / kept) - держать
 to keep a promise - сдержать обещание
 to keep a secret - хранить тайну
-to keep (kept / kept) - содержать
-to keep (kept / kept) - хранить
 to kiss - целовать
 to knock - стучаться
 to know (knew / known) - знать

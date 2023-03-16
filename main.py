@@ -79,7 +79,10 @@ COMMAND_HANDLERS = {
     "nouns": nouns,
     "adverbs": adverbs,
     "adjectives": adjectives,
-    "answer": common.answer
+    "answer": common.answer,
+    "reroll": verbs.reroll_test_verbs_by_letter,
+    'words': verbs.words_verbs,
+    "back": common.back,
 }
 
 if __name__ == '__main__':
@@ -90,15 +93,18 @@ if __name__ == '__main__':
         application.add_handler(CommandHandler(command_name, command_handler))
 
     application.add_handler(MessageHandler(
-        filters.Regex(r'Test'), verbs.test_verbs_by_letter)
+        filters.Regex(r'Test') & (~ filters.COMMAND), verbs.test_verbs_by_letter)
     )
 
     application.add_handler(MessageHandler(
-        filters.Regex(r'check'), checker)
+        filters.Regex(r'back') & (~ filters.COMMAND), common.back)
     )
+    # application.add_handler(MessageHandler(
+    #     filters.Regex(r'check') & (~ filters.FORWARDED), checker)
+    # )
 
     application.add_handler(MessageHandler(
-        filters.Regex(r'[abcdefghijklmnopqrstuvwxyz]'), verbs.verbs_by_letter)
+        filters.Regex(r'[abcdefghijklmnopqrstuvwxyz]') & (~ filters.FORWARDED), verbs.verbs_by_letter)
     )
 
     application.run_polling()
